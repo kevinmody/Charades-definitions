@@ -8,7 +8,7 @@ Requirements:
   
 How to play:
   - Begin the game in a terminal. Make sure to keep the Python window open, it will be used later.
-  - Select a genre to play. Current genres available are: Tools, animals, Sports, and Musical-Instruments. Or just hit enter to have a random genre selected for you.
+  - Select a genre to play. Current genres available are: Tools, Animals, Sports, and Musical-Instruments. Or just hit enter to have a random genre selected for you.
   - Specify a time limit and word definition time penalty (in sec) for each round. Defaults are 60 and 10 seconds.
   - Turn begins and player is presented with their word, at this point they can request a definition or not.
   - Then, in the Python window, hit the 'a' key (begin round) to begin the round.
